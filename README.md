@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I’m diving into the world of tech as a Computer Science and Full Stack Development student. I’ve got a solid grip on JavaScript, HTML, CSS, and Python, and I’m playing around with frameworks like React and Node.js to build cool and functional projects.
+I’m diving into the world of tech as a Computer Science and Full Stack Development student.
 
 ## 🚀 What I'm Up To
 
